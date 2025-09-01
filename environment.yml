@@ -1,0 +1,20 @@
+name: xshield
+channels:
+  - defaults
+dependencies:
+  - bottleneck
+  - dask
+  - netcdf4
+  - xarray
+  - ipykernel
+  - matplotlib
+  - nc-time-axis
+  - scipy
+  - dask-jobqueue
+  - nodejs
+  - dask-labextension
+  - seaborn
+  - conda-forge::flox
+  - conda-forge::metpy
+  - eofs
+prefix: /home/as3675/.conda/envs/xshield
